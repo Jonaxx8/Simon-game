@@ -4,3 +4,4 @@ The Simon game is the exciting electronic game of lights and sounds in which pla
 game ui:
 ![image](https://user-images.githubusercontent.com/91548941/178561953-7329837f-71c8-4b49-98e1-4c49641ff850.png)
 
+Have Fun!!!
